@@ -1,0 +1,2 @@
+# lotteries
+Lottery comparison pictures
